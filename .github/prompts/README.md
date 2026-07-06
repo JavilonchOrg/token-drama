@@ -11,7 +11,7 @@ Shared objective:
 
 Recommended pairs:
 
-1. Language: 01 (freeform Spanish) vs 02 (concise English)
+1. Scope and style: 01 (issue #1, freeform) vs 02 (issue #13, concise)
 2. Format: 03 (freeform output) vs 04 (fixed table)
 3. Restriction: 05 (open) vs 06 (1 sentence + 3 bullets)
 4. Verbosity: 07 (explanation + code) vs 08 (code only)

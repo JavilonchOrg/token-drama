@@ -1,6 +1,6 @@
 ---
-name: "01 Issue ES"
-description: "Base demo in Spanish: analyze an issue without strict formatting"
+name: "01 Issue EN"
+description: "Base demo in English: analyze an issue without strict formatting"
 agent: "agent"
 model: Claude Sonnet 4.6 (copilot)
 ---
