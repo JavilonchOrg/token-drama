@@ -1,14 +1,14 @@
 ---
 name: "01 Issue ES"
-description: "Demo base en espanol: analiza un issue sin formato estricto"
+description: "Base demo in Spanish: analyze an issue without strict formatting"
 agent: "agent"
 model: Claude Sonnet 4.6 (copilot)
 ---
 
-Implementa el issue #1.
+Implement issue #1.
 
-Instrucciones:
+Instructions:
 
-- Explica el problema, posibles causas y la solucion recomendada.
-- Aplica la solucion como cambios locales en el codigo.
-- Solo cambios locales: nunca hagas commit, push, ni crees issues o PRs, para poder revertir y probar otro prompt.
+- Explain the problem, possible causes, and the recommended solution.
+- Apply the solution as local code changes.
+- Local changes only: never commit, push, or create issues or PRs, so the work can be reverted to test another prompt.

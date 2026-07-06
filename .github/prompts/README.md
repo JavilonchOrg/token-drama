@@ -1,30 +1,30 @@
 # Prompt Pack: Token Contrast Demos
 
-Este pack demuestra contrastes de prompting sobre un mismo objetivo: implementar y mejorar un issue aplicando cambios locales.
+This pack demonstrates prompting contrasts for the same objective: implement and improve an issue by applying local changes.
 
-Objetivo comun:
+Shared objective:
 
-- 01 (espanol) trabaja sobre el issue #1.
-- 02-08 (resto) trabajan sobre el issue #13.
-- Todos aplican la solucion como cambios locales.
-- Ninguno hace commit, push ni crea issues/PRs, para poder revertir y probar otro prompt.
+- 01 works on issue #1.
+- 02-08 work on issue #13.
+- All prompts apply the solution as local changes.
+- None of them commit, push, or create issues/PRs, so changes can be reverted before testing another prompt.
 
-Pares recomendados:
+Recommended pairs:
 
-1. Idioma: 01 (espanol libre) vs 02 (english concise)
-2. Formato: 03 (salida libre) vs 04 (tabla fija)
-3. Restriccion: 05 (abierta) vs 06 (1 frase + 3 bullets)
-4. Verbosidad: 07 (explicacion + codigo) vs 08 (solo codigo)
+1. Language: 01 (freeform Spanish) vs 02 (concise English)
+2. Format: 03 (freeform output) vs 04 (fixed table)
+3. Restriction: 05 (open) vs 06 (1 sentence + 3 bullets)
+4. Verbosity: 07 (explanation + code) vs 08 (code only)
 
-Como usar:
+How to use:
 
-1. En chat, escribe / y selecciona un prompt del pack.
-2. Ejecuta el prompt (01 sobre el issue #1, el resto sobre el issue #13).
-3. Revisa los cambios locales y comparalos.
-4. Revierte los cambios antes de probar el siguiente prompt.
+1. In chat, type `/` and select a prompt from this pack.
+2. Run the prompt (01 for issue #1, the rest for issue #13).
+3. Review and compare the local changes.
+4. Revert the changes before trying the next prompt.
 
-Que comparar:
+What to compare:
 
-- Longitud y claridad de la respuesta
-- Accionabilidad y calidad del cambio aplicado
-- Costo de tokens
+- Response length and clarity
+- Actionability and quality of the applied change
+- Token cost
